@@ -1,1 +1,1 @@
-# TriFuse-NETFinder-
+# TriFuse-NETFinder
